@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/vboxuser/Desktop/juegos/GEA2023-main/build",
+  "command": "/usr/bin/c++  -I/home/vboxuser/Desktop/juegos/GEA2023-main/src -I/home/vboxuser/Desktop/juegos/GEA2023-main/src/Game -I/home/vboxuser/Desktop/juegos/GEA2023-main/src/Scene -I/home/vboxuser/Desktop/juegos/GEA2023-main/include -g -std=c++20 -o CMakeFiles/GEA.dir/src/main.cpp.o -c /home/vboxuser/Desktop/juegos/GEA2023-main/src/main.cpp",
+  "file": "/home/vboxuser/Desktop/juegos/GEA2023-main/src/main.cpp"
+},
+{
+  "directory": "/home/vboxuser/Desktop/juegos/GEA2023-main/build",
+  "command": "/usr/bin/c++  -I/home/vboxuser/Desktop/juegos/GEA2023-main/src -I/home/vboxuser/Desktop/juegos/GEA2023-main/src/Game -I/home/vboxuser/Desktop/juegos/GEA2023-main/src/Scene -I/home/vboxuser/Desktop/juegos/GEA2023-main/include -g -std=c++20 -o CMakeFiles/GEA.dir/src/Game/Game.cpp.o -c /home/vboxuser/Desktop/juegos/GEA2023-main/src/Game/Game.cpp",
+  "file": "/home/vboxuser/Desktop/juegos/GEA2023-main/src/Game/Game.cpp"
+},
+{
+  "directory": "/home/vboxuser/Desktop/juegos/GEA2023-main/build",
+  "command": "/usr/bin/c++  -I/home/vboxuser/Desktop/juegos/GEA2023-main/src -I/home/vboxuser/Desktop/juegos/GEA2023-main/src/Game -I/home/vboxuser/Desktop/juegos/GEA2023-main/src/Scene -I/home/vboxuser/Desktop/juegos/GEA2023-main/include -g -std=c++20 -o CMakeFiles/GEA.dir/src/Game/Graphics/Texture.cpp.o -c /home/vboxuser/Desktop/juegos/GEA2023-main/src/Game/Graphics/Texture.cpp",
+  "file": "/home/vboxuser/Desktop/juegos/GEA2023-main/src/Game/Graphics/Texture.cpp"
+},
+{
+  "directory": "/home/vboxuser/Desktop/juegos/GEA2023-main/build",
+  "command": "/usr/bin/c++  -I/home/vboxuser/Desktop/juegos/GEA2023-main/src -I/home/vboxuser/Desktop/juegos/GEA2023-main/src/Game -I/home/vboxuser/Desktop/juegos/GEA2023-main/src/Scene -I/home/vboxuser/Desktop/juegos/GEA2023-main/include -g -std=c++20 -o CMakeFiles/GEA.dir/src/Game/Graphics/TextureManager.cpp.o -c /home/vboxuser/Desktop/juegos/GEA2023-main/src/Game/Graphics/TextureManager.cpp",
+  "file": "/home/vboxuser/Desktop/juegos/GEA2023-main/src/Game/Graphics/TextureManager.cpp"
+},
+{
+  "directory": "/home/vboxuser/Desktop/juegos/GEA2023-main/build",
+  "command": "/usr/bin/c++  -I/home/vboxuser/Desktop/juegos/GEA2023-main/src -I/home/vboxuser/Desktop/juegos/GEA2023-main/src/Game -I/home/vboxuser/Desktop/juegos/GEA2023-main/src/Scene -I/home/vboxuser/Desktop/juegos/GEA2023-main/include -g -std=c++20 -o CMakeFiles/GEA.dir/src/Pong/Pong.cpp.o -c /home/vboxuser/Desktop/juegos/GEA2023-main/src/Pong/Pong.cpp",
+  "file": "/home/vboxuser/Desktop/juegos/GEA2023-main/src/Pong/Pong.cpp"
+},
+{
+  "directory": "/home/vboxuser/Desktop/juegos/GEA2023-main/build",
+  "command": "/usr/bin/c++  -I/home/vboxuser/Desktop/juegos/GEA2023-main/src -I/home/vboxuser/Desktop/juegos/GEA2023-main/src/Game -I/home/vboxuser/Desktop/juegos/GEA2023-main/src/Scene -I/home/vboxuser/Desktop/juegos/GEA2023-main/include -g -std=c++20 -o CMakeFiles/GEA.dir/src/Scene/Scene.cpp.o -c /home/vboxuser/Desktop/juegos/GEA2023-main/src/Scene/Scene.cpp",
+  "file": "/home/vboxuser/Desktop/juegos/GEA2023-main/src/Scene/Scene.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/home/vboxuser/Desktop/juegos/GEA2023-main/build/CMakeFiles/GEA.dir
+/home/vboxuser/Desktop/juegos/GEA2023-main/build/CMakeFiles/edit_cache.dir
+/home/vboxuser/Desktop/juegos/GEA2023-main/build/CMakeFiles/rebuild_cache.dir
